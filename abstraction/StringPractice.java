@@ -21,7 +21,7 @@ public class StringPractice {
 		System.out.println("...............String buffer...........");
 		StringBuilder sb1 = new StringBuilder("Hello");    //String 1  
         StringBuilder sb2 = new StringBuilder(" World");    //String 2  
-        StringBuilder sb3 = sb1.append(sb2);   //String 3 to store the result 
+        StringBuilder sb3 = sb1.append(sb2);   //String 3 to store the result  added comments 
        
         System.out.println(sb3);  
 
