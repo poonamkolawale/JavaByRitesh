@@ -4,9 +4,9 @@ class demo1
  {
    int a= 100;
    int $=200;
-   int _=300;
+   //int _=300;
    System.out.println(a);
    System.out.println($);
-   System.out.println(_);
+ //  System.out.println(_);
    }
    }

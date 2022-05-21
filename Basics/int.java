@@ -1,4 +1,4 @@
-class Demo
+class int123
 {
     public static void main( String[] args)
 {

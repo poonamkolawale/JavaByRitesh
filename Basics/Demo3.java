@@ -4,7 +4,7 @@ class Demo3
  {
  short a=10;
  short b=32767;
- short c=-32769;
- System.out.println(c);
+// short c=-32769;
+// System.out.println(c);
  }
  }

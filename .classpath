@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="abstraction"/>
+	<classpathentry kind="src" path="Basics"/>
+	<classpathentry kind="src" path="constractor"/>
+	<classpathentry kind="src" path="inheritance"/>
+	<classpathentry kind="src" path="Instance block"/>
+	<classpathentry kind="src" path="interfaces"/>
+	<classpathentry kind="src" path="marker interface"/>
+	<classpathentry kind="src" path="methods and variables"/>
+	<classpathentry kind="src" path="polymorphism"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,4 +1,4 @@
-class Sam
+class santo
 {
 	int a= 10;
 	void m1()
@@ -6,13 +6,13 @@ class Sam
 	System.out.println("inside sample");
 	}
 }
-class Dem
+class Dam
 {
 	int b=20;
 	public static void main(String[] args)
 {	
 	System.out.println("start");
-	Dem D1= new Dem();
+	Dam D1= new Dam();
 	System.out.println(D1.b);
 	D1.m2();
 }

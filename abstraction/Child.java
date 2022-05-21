@@ -1,3 +1,6 @@
+import inheritance.Child;
+import inheritance.Parent;
+
 /* Abstraction- it provide services, implementation is done in child class.
 1.when "abstract" prifix given to class or method it becomes abstract.variable cannot be made abstract
 2.if we do not implementation of abstract method in child class, child class becomes as abstract*/

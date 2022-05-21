@@ -16,8 +16,8 @@
 		static void m2()
 	 {
 		Demo22 e= new Demo22();
-		 System.out.println(e.a);
-		 e.m1();
+		 //System.out.println(e.a);
+		 //e.m1();
 	 
 	 }
 	
